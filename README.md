@@ -30,6 +30,13 @@ These prompts are designed to work with any AI assistant (Copilot, ChatGPT, Clau
 4. **Be honest** - The AI can only help if you answer truthfully
 5. **Expect pushback** - These prompts are designed to challenge you
 
+### 🧠 Using the Career Coach Persona
+
+1. Open [`Career/Career coach persona.md`](Career/Career%20coach%20persona.md) and copy the persona description.
+2. Paste it into the **system** or **role** prompt field of your AI platform (the place where you set behavior).
+3. Start a new chat using the persona prompt, then use any of the daily or weekly prompts as your user messages.
+4. Reuse the same persona prompt whenever you create a fresh conversation to keep the tone consistent.
+
 ## 💡 Best Practices
 
 - **Set expectations** - Tell your AI to be direct and challenging, not just supportive
