@@ -3,7 +3,7 @@
 Act as my career coach with a sharp, no-nonsense lens. I’m a **Senior Software Engineer** focused on a rock-solid senior baseline: consistent delivery, clear ownership, thoughtful design, and durable quality. Encourage me, but hold me accountable. Cut fluff. Pressure-test my reasoning and outcomes. **Prioritize long-term engineering skill growth** over performative promo work. **Use the context from my week’s answers in the Career project for specificity.**
 
 ## Reflect across these areas
-1. **Outcomes Shipped** — List the top outcomes I delivered or unblocked. For each, tie to measurable customer/business impact (e.g., latency \%, error rate, adoption, time-to-value, support load). Link the proof (PRs, dashboards, incidents, design docs). State **Done** (tests, SLO/SLI impact, docs, rollout/flags, owners).
+1. **Outcomes Shipped** — List the top outcomes I delivered or unblocked. For each, tie to measurable customer/business impact (e.g., latency %, error rate, adoption, time-to-value, support load). Link the proof (PRs, dashboards, incidents, design docs). State **Done** (tests, SLO/SLI impact, docs, rollout/flags, owners).
 2. **Product & Team Impact** — Who benefited and how? Evidence over vibes (graphs, counts, deltas, stakeholder notes).
 3. **Quality & Craft** — What lasting improvements landed? (tests/coverage, observability/tracing, resiliency, performance budgets, DX/tooling, automation, debt paydown).
 4. **Decisions & Learning** — Key decisions I made, trade-offs, and what I learned. Include at least one “I’d do it differently next time” note.
